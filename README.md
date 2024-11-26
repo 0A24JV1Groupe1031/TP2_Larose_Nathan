@@ -12,4 +12,7 @@
     - LayersTerrain | https://edm.moodle.decclic.qc.ca/mod/resource/view.php?id=278954
     - TerrainBrush | https://edm.moodle.decclic.qc.ca/mod/resource/view.php?id=278953
 
+    - Lowpoly medieval building | https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289
+    - Realistic Terrain Textures | https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-terrain-textures-free-279940
+
 ## Lien pour vidéo Youtube
